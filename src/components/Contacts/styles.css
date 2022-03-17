@@ -1,0 +1,6 @@
+.contact-card{
+  width:100%;
+  background-color: #56BBF1;
+  display: flex;
+  justify-content:space-between;
+}
